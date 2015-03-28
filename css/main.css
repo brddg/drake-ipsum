@@ -1,0 +1,25 @@
+#container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#container h1 {
+  text-align: center;
+}
+
+#container #holdon {
+  text-align: center;
+}
+
+#container img {
+  width: 200px;
+}
+
+#container #moreContainer {
+  text-align: center;
+}
+
+#container #moreContainer button {
+  width: 200px;
+  font-size: 20px;
+}
